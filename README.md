@@ -1,2 +1,2 @@
 # Bookstore
-I have done a java console based project
+I have done a java console based project.
